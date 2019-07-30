@@ -1,2 +1,2 @@
 # espncricinfo-scraper
-Scraper to gather ball-by-ball data
+Scraper to gather ball-by-ball data from ESPNcricinfo
